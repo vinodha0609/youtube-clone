@@ -1,0 +1,11 @@
+input{
+    display:block;
+    margin-bottom: 10px;
+}
+.thumbnail{
+    width:400px;
+    border-radius: 10px;
+}
+p{
+    width: 400px;
+}
