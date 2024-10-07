@@ -9,3 +9,8 @@ input{
 p{
     width: 400px;
 }
+.video-preview{
+    width:400px;
+    display: inline-block;
+    margin-right: 10px;
+}
