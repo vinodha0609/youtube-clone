@@ -1,3 +1,6 @@
+p{
+    margin: 0%;
+}
 input{
     display:block;
     margin-bottom: 10px;
@@ -6,11 +9,19 @@ input{
     width:400px;
     border-radius: 10px;
 }
-p{
-    width: 400px;
-}
 .video-preview{
     width:400px;
     display: inline-block;
     margin-right: 10px;
+}
+.channel-picture{
+    display: inline-block;
+    width:50px;
+    vertical-align: top;
+}
+.profile{
+    width:100%;
+}
+.video-content{
+    display: inline-block;
 }
